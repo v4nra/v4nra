@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vanra</h1>
-<h3 align="center">A passionate fullstack developer from Germany</h3>
+<h3 align="center">A passionate 19 Year old fullstack developer from Tokyo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanra5m&label=Profile%20views&color=0e75b6&style=flat" alt="vanra5m" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanra5m" alt="vanra5m" /></a> </p>
 
-- 🔭 I’m currently working on **Atlas**
+- 🔭 I’m currently working on **Nothing**
 
 - 💬 Ask me about **TypeScript, LUA, React, Vue, Svelte, Solid, JavaScript, and Python**
 
-- 📫 How to reach me **Discord: v4nra**
+- 📫 How to reach me **Discord: uhlucid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
