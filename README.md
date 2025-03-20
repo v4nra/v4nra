@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 💬 Ask me about **TypeScript, LUA, React, Vue, Svelte, Solid, JavaScript, and Python**
+- 💬 Ask me about **TypeScript, Lua, React, Vue, Svelte, Solid, JavaScript, and Python**
 
 - 📫 How to reach me **Discord: uhlucid**
 
