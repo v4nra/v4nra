@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **TypeScript, Lua, React, Vue, Svelte, Solid, JavaScript, and Python**
 
-- 📫 How to reach me **Discord: uhlucid**
+- 📫 How to reach me **Discord: v4nra**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
